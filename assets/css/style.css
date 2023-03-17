@@ -81,13 +81,13 @@ body {
 .service-item img {
     max-height: 200px;
 }
-/* renamed the float-left to service-item-float-left */
-.service-image-float-left {
+
+.float-left {
     float: left;
     margin-right: 25px;
 }
-/* renamed the float-left to service-item-float-right */
-.service-image-float-right {
+
+.float-right {
     float: right;
     margin-left: 25px;
 }
