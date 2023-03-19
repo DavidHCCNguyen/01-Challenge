@@ -4,6 +4,10 @@
 
 There are two types of Challenges in this course. Each one is designed to prepare you for a scenario that you're likely to encounter as a web developer.
 
+This work was made by me David Nguyen, but also assisted with other group members working on this same exact challenge. For the most part everything looks about right, sentences may look different but all in all, the html and css should be different to some extent.
+
+To view it [Click this to view the course](https://davidhccnguyen.github.io/01-Challenge/).
+
 ### Challenge Types 
 
 The two types of Challenges are the following:
